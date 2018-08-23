@@ -10,6 +10,7 @@ body {
 .navbar .navbar-nav>li>a {
     color: white;
 }
-.navbar .navbar-nav>a {
+.navbar-brand {
     color: white;
 }
+
